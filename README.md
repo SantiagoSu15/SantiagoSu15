@@ -44,3 +44,7 @@
     <img src="https://skillicons.dev/icons?i=rabbitmq&theme=light"/>
   </a>
 </p>
+
+## Projects
+- **Calculadora de Balatro** : https://balatrocalculator.vercel.app
+- **Buscaminas** : https://santiagosu15.github.io/Buscaminas/
