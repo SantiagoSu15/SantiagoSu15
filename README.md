@@ -10,7 +10,7 @@
 ## Programming languages
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,c,haskell,js,ts,html,css&theme=light"/>
+    <img src="https://skillicons.dev/icons?i=java,c,haskell,js,ts,html,css"/>
   </a>
 </p>
 
@@ -18,14 +18,14 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,postgres&theme=light"/>
+    <img src="https://skillicons.dev/icons?i=mongodb,postgres"/>
   </a>
 </p>
 
 ## Cloud & Hosting
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,azure,vercel&theme=light"/>
+    <img src="https://skillicons.dev/icons?i=aws,azure,vercel"/>
   </a>
 </p>
 
@@ -33,7 +33,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,git&theme=light"/>
+    <img src="https://skillicons.dev/icons?i=githubactions,docker,kubernetes,git&theme=dark"/>
   </a>
 </p>
 
@@ -41,7 +41,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rabbitmq&theme=light"/>
+    <img src="https://skillicons.dev/icons?i=react,nodejs,spring,rabbitmq"/>
   </a>
 </p>
 
