@@ -49,3 +49,4 @@
 - **Calculadora de Balatro** : https://balatrocalculator.vercel.app
 - **Buscaminas** : https://santiagosu15.github.io/Buscaminas/
 - **Snake 1v1** : https://santiagosu15.github.io/Snake-1v1/
+- **CNN Perros Y Gatos** : https://santiagosu15.github.io/CNN-DOGS-CATS/
